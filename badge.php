@@ -33,7 +33,7 @@ function truncate($string, $width) {
 
 if (!isset($_GET["user"]) || !isset($_GET["repo"])) {
 	$user = "tiefpunkt";
-	$repo = "Moodlamp";
+	$repo = "github-img-badge";
 } else {
 	$user = $_GET["user"];
 	$repo = $_GET["repo"];
