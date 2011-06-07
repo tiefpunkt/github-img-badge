@@ -3,7 +3,6 @@ PHP-script which creates an image similar to the output of the [https://github.c
 
 ## Example
 http://dev.tiefpunkt.com/github-img-badge/badge.php?user=tiefpunkt&repo=github-img-badge    
-![Badge for tiefpunkt's github-img-badge](http://dev.tiefpunkt.com/github-img-badge/badge.php?user=tiefpunkt&repo=github-img-badge)
 
 ## Inspiration
 * Fonts: [http://dejavu-fonts.org/wiki/Main_Page](DejaVu-Fonts)
