@@ -11,3 +11,6 @@ http://dev.tiefpunkt.com/github-img-badge/badge.php?user=tiefpunkt&repo=github-i
 
 ## Disclaimer
 This badge has been a "remember-how-to-write-php"-kind of project, thus the code is anything but pretty, and probably buggy as hell. Use at your own risk!
+
+## License
+Licensed under MIT license. See LICENSE for details.
