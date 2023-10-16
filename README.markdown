@@ -14,3 +14,12 @@ This badge has been a "remember-how-to-write-php"-kind of project, thus the code
 
 ## License
 Licensed under MIT license. See LICENSE for details.
+
+
+## Contributing
+
+Contributions are always welcome!
+
+--> Hacktoberfest
+
+If you wish to contribute, make sure you work in the develop branch, the master/main branch is only for *release* to the production.
